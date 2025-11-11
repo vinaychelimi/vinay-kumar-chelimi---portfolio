@@ -39,7 +39,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     title: 'Futuristic Personal Portfolio',
     description: 'A responsive, interactive personal portfolio featuring a futuristic UI with glassmorphism, neon glows, and smooth animations.',
     tech: 'React, TypeScript, Tailwind CSS, Framer Motion',
-    image: '/assests/portfolio.png',
+    image: '/assets/portfolio.png',
     details: [
         'Built from scratch using a modern frontend stack.',
         'Fully responsive design for desktop, tablet, and mobile.',
@@ -53,7 +53,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     title: 'The Memories Photography Website',
     description: 'A fully responsive photography website for a real client, designed to showcase their work and attract new customers.',
     tech: 'WordPress, CSS, Plugins',
-    image: '/assests/memories.png',
+    image: '/assets/memories.png',
      details: [
         'Customized a WordPress theme to align with the client\'s brand identity.',
         'Integrated essential plugins for contact forms, photo galleries, and SEO.',
@@ -66,7 +66,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     title: 'Vehicle Tracking Subsystem',
     description: 'A real-time vehicle location tracking system using Arduino and GPS modules with user notifications for geofencing.',
     tech: 'Arduino, GPS, C',
-    image: '/assests/vehicle.png',
+    image: '/assets/vehicle.png',
     details: [
         'Developed C code for the Arduino microcontroller to process GPS data.',
         'Utilized a GPS module to accurately capture vehicle coordinates.',

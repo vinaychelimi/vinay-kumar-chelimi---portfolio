@@ -30,7 +30,7 @@ export const About: React.FC = () => {
         variants={containerVariants}
       >
         <motion.div className="w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-purple-500 neon-glow-purple flex-shrink-0" variants={itemVariants}>
-          <img src="assests\profile.jpg" alt="Vinay Kumar Chelimi" className="w-full h-full object-cover" />
+          <img src="assets\profile.jpg" alt="Vinay Kumar Chelimi" className="w-full h-full object-cover" />
         </motion.div>
         <motion.div className="text-center md:text-left" variants={itemVariants}>
           <p className="text-lg text-gray-300 mb-6 leading-relaxed">
