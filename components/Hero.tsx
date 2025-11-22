@@ -52,7 +52,7 @@ export const Hero: React.FC = () => {
               View My Work
             </button>
           </ScrollLink>
-          <a href="https://drive.google.com/uc?export=download&id=1MFbDb9LZQcAICbdsdhAHeMjXQ-wzmETS" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1ntUZ2VXA782ib4SWE1C9t575INjmT-lA/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <button className="px-8 py-3 bg-cyan-500 text-black font-semibold rounded-md transition-all duration-300 hover:bg-cyan-400 hover:neon-glow-blue">
                view Resume
             </button>
