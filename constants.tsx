@@ -18,7 +18,7 @@ export const EDUCATION_DATA: EducationItem[] = [
     institution: 'Anantha Lakshmi Institute of Technology & Science, Anantapur',
     degree: 'B.TECH – Electronics and Communication Engineering',
     period: '2022 - 2025',
-    percentage: '75%',
+    percentage: '76%',
   },
   {
     institution: 'PVKK Institute of Technology, Anantapur',
@@ -47,7 +47,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
         'Smooth page scrolling and section-reveal animations with Framer Motion.',
         'Includes a mock admin panel with charts for a complete full-stack feel.'
     ],
-    link: 'https://vinay-kumar-portfolio-xi.vercel.app/',
+    link: 'https://vinay-kumar-chelimi-portfolio.vercel.app/',
   },
   {
     title: 'The Memories Photography Website',
