@@ -30,7 +30,8 @@ export const About: React.FC = () => {
         variants={containerVariants}
       >
         <motion.div className="w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-purple-500 neon-glow-purple flex-shrink-0" variants={itemVariants}>
-          <img src="https://media.licdn.com/dms/image/v2/D5603AQHEMOKIhPlgmA/profile-displayphoto-scale_400_400/B56Zqb6cHUIcAg-/0/1763552381235?e=1765411200&v=beta&t=ue0XVkkpC0_RA0etVSil8yu01fcPknj8riOm5S_8BZY">
+          <img src="https://media.licdn.com/dms/image/v2/D5603AQHEMOKIhPlgmA/profile-displayphoto-scale_400_400/B56Zqb6cHUIcAg-/0/1763552381235?e=1765411200&v=beta&t=ue0XVkkpC0_RA0etVSil8yu01fcPknj8riOm5S_8BZY" alt="Vinay Kumar Chelimi" className="w-full h-full object-cover" />
+        </motion.div>
         </motion.div>
         <motion.div className="text-center md:text-left" variants={itemVariants}>
           <p className="text-lg text-gray-300 mb-6 leading-relaxed">
